@@ -1,3 +1,4 @@
+# Updated to track issues: multi-coin and real-time updates planned
 # crypto-price-tracker
 # Fetch current price from CoinGecko and allow selecting a coin.
 
